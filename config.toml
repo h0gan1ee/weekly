@@ -1,4 +1,4 @@
-baseURL = "https://weekly.hitsz.org/"
+baseURL = "https://hitsz-lug-weekly.pages.dev/"
 theme = "bilberry-hugo-theme"
 title = "LUG Weekly"
 
